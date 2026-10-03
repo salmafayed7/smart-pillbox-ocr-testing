@@ -1,0 +1,81 @@
+════════════════════════════════════════════════════════════
+  OCR Benchmark  ·  C:\Users\rsl_f\OneDrive\Desktop\graduation project\OCR testing\images\handwritten\17.jpg
+════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────
+  1 · Tesseract 5
+────────────────────────────────────────────────────────────
+  time: 0.58s
+
+  Smile Designing | Teeth Whitening TH E Ju ITE TUSK.
+  Dental Implants | General Dentistry
+  @O/whitetuskdental
+  [22 Me Sachin Beanrsacre
+  me
+  | Tab - fragmento. 625d
+  ( —o— / «La
+  “Tab- Enadplacn
+  | — o — | <<
+  yee “Fak - faxD 4
+
+────────────────────────────────────────────────────────────
+  2 · RapidOCR
+────────────────────────────────────────────────────────────
+  time: 13.00s
+
+  THEWHITETUSK
+  SmileDesigning|Teeth Whitening
+  DentalImplantsGeneralDentistry
+  @/whitetuskdental
+  MSachun Sansaae
+  12/10 /22
+  281m
+  Tab. Augmentn 625mg
+  meals
+  1 × 5days
+  Adv:Hexigel gum Pant
+  massage
+  1--1xlweek
+  Ph:+91 81o8112511/Web:www.thewhitetusk.com|Email:info@thewhitetusk.com
+
+────────────────────────────────────────────────────────────
+  3 · EasyOCR
+────────────────────────────────────────────────────────────
+  time: 11.90s
+
+  Smile Designing
+  Teeth Whitening
+  THE
+  CJHITE TUSK
+  Dental Implants
+  General Dentistry
+  @O/whitetuskdental
+  NL
+  Sachn
+  LSansoae
+  28/m
+  R
+  Tab -
+  Aujnentu
+  6 25 m
+  Enzgbrn
+  fTal
+  FanDD 4
+  0
+  Adu: Hexiqel qurn
+  8
+  (eagaqe
+  Lweek
+  Ph: +91 810811251 | Web: www.thewhitetusk.com
+  Email: info@thexhitetusk com
+  12o/22
+  ~fl
+  zdv8
+  Tal .
+  Sda8
+  Oj
+  Nefct
+  xsda8
+  Pan -
+
+════════════════════════════════════════════════════════════

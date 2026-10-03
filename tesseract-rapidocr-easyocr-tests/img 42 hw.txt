@@ -1,0 +1,69 @@
+════════════════════════════════════════════════════════════
+  OCR Benchmark  ·  C:\Users\rsl_f\OneDrive\Desktop\graduation project\OCR testing\images\handwritten\42.png
+════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────
+  1 · Tesseract 5
+────────────────────────────────────────────────────────────
+  time: 0.78s
+
+  Medical prescription by
+  Klippa Medical Center
+  Lubeckweg 2, 9723HE
+  Groningen, The Netherlands
+  Patiént name:
+  Patient age:
+  Date:
+  K
+  Signed by:
+  Mario CavloS van der Vaart
+  49
+  10-01-1015
+  Paracetamol - 50m,
+  Lluprofen - 150m
+  Or. Bill Andrew Balmer
+
+────────────────────────────────────────────────────────────
+  2 · RapidOCR
+────────────────────────────────────────────────────────────
+  time: 4.11s
+
+  Medical prescription by
+  Klippa Medical Center
+  Lubeckweg 2, 9723HE
+  Groningen, The Netherlands
+  Patient name:
+  Mario Carlos van der Vaart
+  Patient age:
+  38
+  Date:
+  20-01-2025
+  Rx
+  Paracetamol - 50mg
+  Hbuprofen - (50mg
+  Signed by:
+  Dr. Bill Andrew Balmer
+
+────────────────────────────────────────────────────────────
+  3 · EasyOCR
+────────────────────────────────────────────────────────────
+  time: 7.40s
+
+  Medical prescription by
+  Klippa Medical Center
+  Lubeckweg 2, 9723HE
+  Groningen; The Netherlands
+  Patient name:
+  Mario Carlos van der Vaart
+  Patient age:
+  38
+  Date:
+  10-01-1015
+  Paracetamol
+  Ibuprofen
+  Signed by:
+  Dr. Bill Andrew Balmer
+  5Omg
+  I5Owg
+
+════════════════════════════════════════════════════════════

@@ -1,0 +1,72 @@
+════════════════════════════════════════════════════════════
+  OCR Benchmark  ·  C:\Users\rsl_f\OneDrive\Desktop\graduation project\OCR testing\qwen tests\qwen2.5-vl-72b-instruct\electronic\3\3.jpg
+════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────
+  1 · Tesseract 5
+────────────────────────────────────────────────────────────
+  time: 2.04s
+
+  Patient Name: John smith
+  Address: 400 E 3rd Street
+  Duluth, MN 55804
+  Rx Amoxicillin 250 mg tablets
+  TT tablets p.o. T.i.d. x 7 days
+  Do Not Refill __X_ (sign) wc.
+  Refill Times D.E.A. Number —
+  Date 10/3/00. Print Last Name Johns _
+
+────────────────────────────────────────────────────────────
+  2 · RapidOCR
+────────────────────────────────────────────────────────────
+  time: 4.42s
+
+  PatientName:John Smith
+  Address:
+  400E 3rd Street
+  Duluth.MN 55804
+  Rx Amoxicillin 250 mg tablets
+  # 42
+  TT tablets p.o. T.i.d, X 7 dayS
+  cti
+  Do Not Refill
+  (Sign)
+  M.D.
+  Refill
+  Times
+  D.E.A. Number
+  Date
+  10/3/00
+  Print Last Name _Johns
+
+────────────────────────────────────────────────────────────
+  3 · EasyOCR
+────────────────────────────────────────────────────────────
+  time: 6.38s
+
+  Patient Name: John Smith
+  Address;
+  4QQE 3rd Street
+  Duluth MN 55804
+  Rx
+  Amoxicillin 250 mg tablets
+  #42
+  TT tablets p.o
+  Ti.d X
+  days
+  k
+  Do Not Refill
+  M.D.
+  Refill
+  Times
+  DEA_
+  Number
+  Date
+  10300
+  Print
+  ast Nane
+  Johns
+  actic
+  OT
+
+════════════════════════════════════════════════════════════
