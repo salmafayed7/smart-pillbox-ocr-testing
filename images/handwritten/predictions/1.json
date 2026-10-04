@@ -1,0 +1,38 @@
+{
+    "medications": [
+        {
+            "name": "Gabapentin",
+            "dose": "500 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": null,
+            "notes": "Before meals"
+        },
+        {
+            "name": "Prednisone",
+            "dose": "50 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": {
+                "morning": 0,
+                "noon": 0,
+                "evening": 0,
+                "night": 1
+            },
+            "notes": "At bedtime"
+        },
+        {
+            "name": "Acetaminophen",
+            "dose": "100 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": {
+                "morning": 0,
+                "noon": 0,
+                "evening": 0,
+                "night": 1
+            },
+            "notes": "At bedtime"
+        }
+    ]
+}
