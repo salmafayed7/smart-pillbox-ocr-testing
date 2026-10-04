@@ -1,0 +1,28 @@
+{
+    "medications": [
+        {
+            "name": "Amlodipine",
+            "dose": "25 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": null,
+            "notes": "With food"
+        },
+        {
+            "name": "Amoxicillin",
+            "dose": "5 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": null,
+            "notes": "Before meals"
+        },
+        {
+            "name": "Lisinopril",
+            "dose": "10 mg",
+            "frequency": "",
+            "duration": null,
+            "schedule": null,
+            "notes": "Every 12 hours"
+        }
+    ]
+}
