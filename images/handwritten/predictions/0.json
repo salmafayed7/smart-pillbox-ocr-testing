@@ -1,0 +1,33 @@
+{
+    "medications": [
+        {
+            "name": "Ibuprofen",
+            "dose": "5 mg",
+            "frequency": "twice daily",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        },
+        {
+            "name": "Ciprofloxacin",
+            "dose": "25 mg",
+            "frequency": "At bedtime",
+            "duration": null,
+            "schedule": {
+                "morning": 0,
+                "noon": 0,
+                "evening": 0,
+                "night": 1
+            },
+            "notes": ""
+        },
+        {
+            "name": "Metformin",
+            "dose": "100 mg",
+            "frequency": "Every 12 hours",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        }
+    ]
+}
