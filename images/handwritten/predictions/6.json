@@ -1,0 +1,12 @@
+{
+    "medications": [
+        {
+            "name": "Prednisone",
+            "dose": "100 mg",
+            "frequency": "As directed",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        }
+    ]
+}
