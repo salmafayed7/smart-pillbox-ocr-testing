@@ -1,0 +1,36 @@
+{
+    "medications": [
+        {
+            "name": "Prednisone",
+            "dose": "500 mg",
+            "frequency": "Every 12 hours",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        },
+        {
+            "name": "Ciprofloxacin",
+            "dose": "5 mg",
+            "frequency": "As directed",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        },
+        {
+            "name": "Simvastatin",
+            "dose": "10 mg",
+            "frequency": "Every 12 hours",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        },
+        {
+            "name": "Omeprazole",
+            "dose": "20 mg",
+            "frequency": "Twice daily",
+            "duration": null,
+            "schedule": null,
+            "notes": ""
+        }
+    ]
+}
